@@ -1,0 +1,602 @@
+{
+ "generated_at": "2026/10/27 00:38:43",
+ "source": "postcards/_workbench/palettes.json",
+ "supersample": 2,
+ "types": {
+  "stamp": {
+   "width": 708,
+   "height": 944,
+   "spec": "竖版矩形窗，内部完全透明；轮廓最外 8px 主色边 + 其内 3px 白色内线；四边半圆齿孔 r=14 px、间距 56 px 向外凸出"
+  },
+  "speech": {
+   "width": 900,
+   "height": 620,
+   "spec": "圆角矩形 r=80 + 左下角尾巴，白底主色描边 10px"
+  },
+  "thought": {
+   "width": 900,
+   "height": 620,
+   "spec": "10 个椭圆叠成云朵轮廓 + 右下 3 个实心圆点，白底主色描边 10px"
+  }
+ },
+ "files": [
+  {
+   "file": "stamp_G04-G07.png",
+   "type": "stamp",
+   "group": "G04-G07_コバルトメモリーズ_セブンティーナ",
+   "slug": "G04-G07",
+   "primary_hex": "#2F2F43",
+   "secondary_hex": "#1166A7",
+   "width": 708,
+   "height": 944,
+   "bytes": 68495,
+   "geometry": {
+    "base_rect": [
+     18,
+     18,
+     690,
+     926
+    ],
+    "bumps": {
+     "top": [
+      12,
+      56.0
+     ],
+     "right": [
+      16,
+      56.75
+     ],
+     "bottom": [
+      12,
+      56.0
+     ],
+     "left": [
+      16,
+      56.75
+     ]
+    }
+   }
+  },
+  {
+   "file": "speech_G04-G07.png",
+   "type": "speech",
+   "group": "G04-G07_コバルトメモリーズ_セブンティーナ",
+   "slug": "G04-G07",
+   "primary_hex": "#2F2F43",
+   "secondary_hex": "#1166A7",
+   "width": 900,
+   "height": 620,
+   "bytes": 23137,
+   "geometry": {}
+  },
+  {
+   "file": "thought_G04-G07.png",
+   "type": "thought",
+   "group": "G04-G07_コバルトメモリーズ_セブンティーナ",
+   "slug": "G04-G07",
+   "primary_hex": "#2F2F43",
+   "secondary_hex": "#1166A7",
+   "width": 900,
+   "height": 620,
+   "bytes": 46932,
+   "geometry": {}
+  },
+  {
+   "file": "stamp_G05.png",
+   "type": "stamp",
+   "group": "G05_メルティランドナイトメア",
+   "slug": "G05",
+   "primary_hex": "#EE7AAD",
+   "secondary_hex": "#FBCDEB",
+   "width": 708,
+   "height": 944,
+   "bytes": 67636,
+   "geometry": {
+    "base_rect": [
+     18,
+     18,
+     690,
+     926
+    ],
+    "bumps": {
+     "top": [
+      12,
+      56.0
+     ],
+     "right": [
+      16,
+      56.75
+     ],
+     "bottom": [
+      12,
+      56.0
+     ],
+     "left": [
+      16,
+      56.75
+     ]
+    }
+   }
+  },
+  {
+   "file": "speech_G05.png",
+   "type": "speech",
+   "group": "G05_メルティランドナイトメア",
+   "slug": "G05",
+   "primary_hex": "#EE7AAD",
+   "secondary_hex": "#FBCDEB",
+   "width": 900,
+   "height": 620,
+   "bytes": 23696,
+   "geometry": {}
+  },
+  {
+   "file": "thought_G05.png",
+   "type": "thought",
+   "group": "G05_メルティランドナイトメア",
+   "slug": "G05",
+   "primary_hex": "#EE7AAD",
+   "secondary_hex": "#FBCDEB",
+   "width": 900,
+   "height": 620,
+   "bytes": 49053,
+   "geometry": {}
+  },
+  {
+   "file": "stamp_G13.png",
+   "type": "stamp",
+   "group": "G13_第三の心臓",
+   "slug": "G13",
+   "primary_hex": "#53A0B5",
+   "secondary_hex": "#9B99A7",
+   "width": 708,
+   "height": 944,
+   "bytes": 70298,
+   "geometry": {
+    "base_rect": [
+     18,
+     18,
+     690,
+     926
+    ],
+    "bumps": {
+     "top": [
+      12,
+      56.0
+     ],
+     "right": [
+      16,
+      56.75
+     ],
+     "bottom": [
+      12,
+      56.0
+     ],
+     "left": [
+      16,
+      56.75
+     ]
+    }
+   }
+  },
+  {
+   "file": "speech_G13.png",
+   "type": "speech",
+   "group": "G13_第三の心臓",
+   "slug": "G13",
+   "primary_hex": "#53A0B5",
+   "secondary_hex": "#9B99A7",
+   "width": 900,
+   "height": 620,
+   "bytes": 24784,
+   "geometry": {}
+  },
+  {
+   "file": "thought_G13.png",
+   "type": "thought",
+   "group": "G13_第三の心臓",
+   "slug": "G13",
+   "primary_hex": "#53A0B5",
+   "secondary_hex": "#9B99A7",
+   "width": 900,
+   "height": 620,
+   "bytes": 50482,
+   "geometry": {}
+  },
+  {
+   "file": "stamp_G16.png",
+   "type": "stamp",
+   "group": "G16_幻影",
+   "slug": "G16",
+   "primary_hex": "#3423EA",
+   "secondary_hex": "#999BF5",
+   "width": 708,
+   "height": 944,
+   "bytes": 68642,
+   "geometry": {
+    "base_rect": [
+     18,
+     18,
+     690,
+     926
+    ],
+    "bumps": {
+     "top": [
+      12,
+      56.0
+     ],
+     "right": [
+      16,
+      56.75
+     ],
+     "bottom": [
+      12,
+      56.0
+     ],
+     "left": [
+      16,
+      56.75
+     ]
+    }
+   }
+  },
+  {
+   "file": "speech_G16.png",
+   "type": "speech",
+   "group": "G16_幻影",
+   "slug": "G16",
+   "primary_hex": "#3423EA",
+   "secondary_hex": "#999BF5",
+   "width": 900,
+   "height": 620,
+   "bytes": 24097,
+   "geometry": {}
+  },
+  {
+   "file": "thought_G16.png",
+   "type": "thought",
+   "group": "G16_幻影",
+   "slug": "G16",
+   "primary_hex": "#3423EA",
+   "secondary_hex": "#999BF5",
+   "width": 900,
+   "height": 620,
+   "bytes": 49145,
+   "geometry": {}
+  },
+  {
+   "file": "stamp_G21.png",
+   "type": "stamp",
+   "group": "G21_ゼロトーキング",
+   "slug": "G21",
+   "primary_hex": "#4E2F27",
+   "secondary_hex": "#2A1A14",
+   "width": 708,
+   "height": 944,
+   "bytes": 70007,
+   "geometry": {
+    "base_rect": [
+     18,
+     18,
+     690,
+     926
+    ],
+    "bumps": {
+     "top": [
+      12,
+      56.0
+     ],
+     "right": [
+      16,
+      56.75
+     ],
+     "bottom": [
+      12,
+      56.0
+     ],
+     "left": [
+      16,
+      56.75
+     ]
+    }
+   }
+  },
+  {
+   "file": "speech_G21.png",
+   "type": "speech",
+   "group": "G21_ゼロトーキング",
+   "slug": "G21",
+   "primary_hex": "#4E2F27",
+   "secondary_hex": "#2A1A14",
+   "width": 900,
+   "height": 620,
+   "bytes": 24165,
+   "geometry": {}
+  },
+  {
+   "file": "thought_G21.png",
+   "type": "thought",
+   "group": "G21_ゼロトーキング",
+   "slug": "G21",
+   "primary_hex": "#4E2F27",
+   "secondary_hex": "#2A1A14",
+   "width": 900,
+   "height": 620,
+   "bytes": 48767,
+   "geometry": {}
+  },
+  {
+   "file": "stamp_Futarino1.png",
+   "type": "stamp",
+   "group": "Futarino1",
+   "slug": "Futarino1",
+   "primary_hex": "#1B3F5F",
+   "secondary_hex": "#156596",
+   "width": 708,
+   "height": 944,
+   "bytes": 70418,
+   "geometry": {
+    "base_rect": [
+     18,
+     18,
+     690,
+     926
+    ],
+    "bumps": {
+     "top": [
+      12,
+      56.0
+     ],
+     "right": [
+      16,
+      56.75
+     ],
+     "bottom": [
+      12,
+      56.0
+     ],
+     "left": [
+      16,
+      56.75
+     ]
+    }
+   }
+  },
+  {
+   "file": "speech_Futarino1.png",
+   "type": "speech",
+   "group": "Futarino1",
+   "slug": "Futarino1",
+   "primary_hex": "#1B3F5F",
+   "secondary_hex": "#156596",
+   "width": 900,
+   "height": 620,
+   "bytes": 24205,
+   "geometry": {}
+  },
+  {
+   "file": "thought_Futarino1.png",
+   "type": "thought",
+   "group": "Futarino1",
+   "slug": "Futarino1",
+   "primary_hex": "#1B3F5F",
+   "secondary_hex": "#156596",
+   "width": 900,
+   "height": 620,
+   "bytes": 49279,
+   "geometry": {}
+  },
+  {
+   "file": "stamp_Futarino2.png",
+   "type": "stamp",
+   "group": "Futarino2",
+   "slug": "Futarino2",
+   "primary_hex": "#DF3C59",
+   "secondary_hex": "#4F1117",
+   "width": 708,
+   "height": 944,
+   "bytes": 69651,
+   "geometry": {
+    "base_rect": [
+     18,
+     18,
+     690,
+     926
+    ],
+    "bumps": {
+     "top": [
+      12,
+      56.0
+     ],
+     "right": [
+      16,
+      56.75
+     ],
+     "bottom": [
+      12,
+      56.0
+     ],
+     "left": [
+      16,
+      56.75
+     ]
+    }
+   }
+  },
+  {
+   "file": "speech_Futarino2.png",
+   "type": "speech",
+   "group": "Futarino2",
+   "slug": "Futarino2",
+   "primary_hex": "#DF3C59",
+   "secondary_hex": "#4F1117",
+   "width": 900,
+   "height": 620,
+   "bytes": 24719,
+   "geometry": {}
+  },
+  {
+   "file": "thought_Futarino2.png",
+   "type": "thought",
+   "group": "Futarino2",
+   "slug": "Futarino2",
+   "primary_hex": "#DF3C59",
+   "secondary_hex": "#4F1117",
+   "width": 900,
+   "height": 620,
+   "bytes": 50405,
+   "geometry": {}
+  },
+  {
+   "file": "stamp_Futarino3.png",
+   "type": "stamp",
+   "group": "Futarino3",
+   "slug": "Futarino3",
+   "primary_hex": "#1B627E",
+   "secondary_hex": "#3AB4C2",
+   "width": 708,
+   "height": 944,
+   "bytes": 70937,
+   "geometry": {
+    "base_rect": [
+     18,
+     18,
+     690,
+     926
+    ],
+    "bumps": {
+     "top": [
+      12,
+      56.0
+     ],
+     "right": [
+      16,
+      56.75
+     ],
+     "bottom": [
+      12,
+      56.0
+     ],
+     "left": [
+      16,
+      56.75
+     ]
+    }
+   }
+  },
+  {
+   "file": "speech_Futarino3.png",
+   "type": "speech",
+   "group": "Futarino3",
+   "slug": "Futarino3",
+   "primary_hex": "#1B627E",
+   "secondary_hex": "#3AB4C2",
+   "width": 900,
+   "height": 620,
+   "bytes": 24460,
+   "geometry": {}
+  },
+  {
+   "file": "thought_Futarino3.png",
+   "type": "thought",
+   "group": "Futarino3",
+   "slug": "Futarino3",
+   "primary_hex": "#1B627E",
+   "secondary_hex": "#3AB4C2",
+   "width": 900,
+   "height": 620,
+   "bytes": 49892,
+   "geometry": {}
+  }
+ ],
+ "groups": {
+  "G04-G07_コバルトメモリーズ_セブンティーナ": {
+   "group": "G04-G07_コバルトメモリーズ_セブンティーナ",
+   "slug": "G04-G07",
+   "primary_hex": "#2F2F43",
+   "secondary_hex": "#1166A7",
+   "files": {
+    "stamp": "stamp_G04-G07.png",
+    "speech": "speech_G04-G07.png",
+    "thought": "thought_G04-G07.png"
+   }
+  },
+  "G05_メルティランドナイトメア": {
+   "group": "G05_メルティランドナイトメア",
+   "slug": "G05",
+   "primary_hex": "#EE7AAD",
+   "secondary_hex": "#FBCDEB",
+   "files": {
+    "stamp": "stamp_G05.png",
+    "speech": "speech_G05.png",
+    "thought": "thought_G05.png"
+   }
+  },
+  "G13_第三の心臓": {
+   "group": "G13_第三の心臓",
+   "slug": "G13",
+   "primary_hex": "#53A0B5",
+   "secondary_hex": "#9B99A7",
+   "files": {
+    "stamp": "stamp_G13.png",
+    "speech": "speech_G13.png",
+    "thought": "thought_G13.png"
+   }
+  },
+  "G16_幻影": {
+   "group": "G16_幻影",
+   "slug": "G16",
+   "primary_hex": "#3423EA",
+   "secondary_hex": "#999BF5",
+   "files": {
+    "stamp": "stamp_G16.png",
+    "speech": "speech_G16.png",
+    "thought": "thought_G16.png"
+   }
+  },
+  "G21_ゼロトーキング": {
+   "group": "G21_ゼロトーキング",
+   "slug": "G21",
+   "primary_hex": "#4E2F27",
+   "secondary_hex": "#2A1A14",
+   "files": {
+    "stamp": "stamp_G21.png",
+    "speech": "speech_G21.png",
+    "thought": "thought_G21.png"
+   }
+  },
+  "Futarino1": {
+   "group": "Futarino1",
+   "slug": "Futarino1",
+   "primary_hex": "#1B3F5F",
+   "secondary_hex": "#156596",
+   "files": {
+    "stamp": "stamp_Futarino1.png",
+    "speech": "speech_Futarino1.png",
+    "thought": "thought_Futarino1.png"
+   }
+  },
+  "Futarino2": {
+   "group": "Futarino2",
+   "slug": "Futarino2",
+   "primary_hex": "#DF3C59",
+   "secondary_hex": "#4F1117",
+   "files": {
+    "stamp": "stamp_Futarino2.png",
+    "speech": "speech_Futarino2.png",
+    "thought": "thought_Futarino2.png"
+   }
+  },
+  "Futarino3": {
+   "group": "Futarino3",
+   "slug": "Futarino3",
+   "primary_hex": "#1B627E",
+   "secondary_hex": "#3AB4C2",
+   "files": {
+    "stamp": "stamp_Futarino3.png",
+    "speech": "speech_Futarino3.png",
+    "thought": "thought_Futarino3.png"
+   }
+  }
+ }
+}
